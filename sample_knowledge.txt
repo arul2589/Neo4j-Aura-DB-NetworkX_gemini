@@ -1,0 +1,3 @@
+Neo4j is a graph database management system developed by Neo4j, Inc. 
+The company is headquartered in San Francisco, California. 
+Emil Eifrem, Johan Svensson, and Peter Neubauer founded Neo4j in 2000.
